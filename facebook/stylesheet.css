@@ -1,0 +1,61 @@
+div#titlebar 
+{
+    background-color: #3B5998;
+    height: 82px;
+}
+body
+{
+    color: #141823; 
+    margin:0;
+    padding:0;
+}
+
+
+.sprite {
+    background-image: url(images/sprite.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#facebookLogo {
+    padding-top: 13px;
+
+}
+
+.sized {
+    margin: 0px auto;
+    width: 980px;
+}
+
+#facebookLogo i {
+    height: 36px;
+    width: 170px;
+    background-position: 0px -481px;
+    margin-top: 17px;
+}
+
+#mainContent {
+    background: linear-gradient(#FFF, #D3D8E8) repeat scroll 0% 0% transparent;
+    height: 562px;
+}
+
+#map{
+    color: #0E385F;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+label {
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-size: 11px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+#formMainContainer {
+    float: right;
+}
+
